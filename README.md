@@ -9,12 +9,18 @@
 </a>
 -->
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" />
+
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/convoychat" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </div>
 
