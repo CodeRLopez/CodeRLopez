@@ -1,31 +1,22 @@
 ## Hi there 👋
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<!--
-
-<div style="display: flex;width: 100%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 50%;" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="width: 50%;" />
-  </a>
-</div>
-
-<!--
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" />
-  </a>
-</div>
 -->
+
+<div style="display: flex; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="width: 100%;" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
