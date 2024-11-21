@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" style="width: 100%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" style="width: 80%;" />
   </a>
 </div>
 
