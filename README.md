@@ -1,5 +1,9 @@
 ### Hi 👋, I'm RONALD LOPEZ
 
+<div align="center" style="font-size: 24px;">
+  <h3>Hi 👋, I'm RONALD LOPEZ</h3>
+</div>
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" />
