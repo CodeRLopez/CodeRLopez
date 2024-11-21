@@ -7,8 +7,11 @@
 </a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" /></a>
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
