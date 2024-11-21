@@ -1,5 +1,5 @@
 <div align="center" style="font-size: 24px;">
-  ### Hi 👋, I'm RONALD LOPEZ
+  <h3> Hi 👋, I'm RONALD LOPEZ </h3>
 </div>
 
 <!--
