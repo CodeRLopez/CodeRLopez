@@ -11,10 +11,10 @@
 
 <div style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="" />
   </a>
 </div>
 
