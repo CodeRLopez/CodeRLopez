@@ -9,7 +9,7 @@
 </a>
 -->
 
-<div style="display: flex; width: 100%;">
+<div style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 100%;" />
   </a>
