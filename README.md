@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 32px;">
+<div align="center" style="font-size: 60px;">
   <h3> Hi 👋, I'm RONALD LOPEZ </h3>
 </div>
 
