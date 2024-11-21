@@ -1,10 +1,21 @@
 ## Hi there 👋
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" />
 </a>
+-->
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+  </a>
+</div>
 
 <!--
 
