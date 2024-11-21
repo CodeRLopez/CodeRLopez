@@ -7,7 +7,8 @@
 </a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeRLopez)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&theme=dark&card_width=510)](https://git.io/streak-stats)
+
 
 
 <h3 align="left">Connect with me:</h3>
