@@ -8,7 +8,7 @@
 </a>
 -->
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeRLopez" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
   </a>
