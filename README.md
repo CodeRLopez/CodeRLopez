@@ -33,7 +33,7 @@
 </div>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs)](https://skillicons.dev)
 
 
 ## ✉️ Connect with me:
