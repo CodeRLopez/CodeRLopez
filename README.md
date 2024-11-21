@@ -22,7 +22,7 @@
 
 
 ## :hammer_and_wrench: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,redux,nodejs,laravel,mongo,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,redux,nodejs,laravel,mongo,postgres,express)](https://skillicons.dev)
 
 
 ## ✉️ Connect with me:
