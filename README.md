@@ -6,6 +6,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeRLopez&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeRLopez)](https://git.io/streak-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
