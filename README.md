@@ -6,10 +6,11 @@
   I rely heavily on prior planning as the main vehicle to achieve my individual goals and I am aware that the only way to success is it is 
   the action, so I am always willing to make all the sacrifices concerned to achieve success.
 
-  My main added value is my ability to commit to the individual goals of my client in their project, I am very clear about the fact that the 
-  success of my client is therefore my own success and that each project and request that I generate an ultra-satisfied client with the final 
-  product is an addiction to my professional background, which is why every time an estimate is entrusted to me, I dedicate 100% of my dedication,
-  attention, commitment and performance, each task represents my own identity as a profession and my ambition 
+ My main added value is my ability to commit to the individual goals of my client in their project, I am very clear about the fact that the 
+ success of my client is therefore my own success and that each project and request that I generate an ultra-satisfied client with the final 
+ product is an addiction to my professional background, which is why every time an estimate is entrusted to me, I dedicate 100% of my dedication, 
+ attention, commitment and performance, each task represents my own identity as a profession and my ambition is that this professional identity is 
+ synonymous with excellence and quality in execution.
 </div>
 
 
