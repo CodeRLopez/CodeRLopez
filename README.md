@@ -32,7 +32,7 @@
 
 
 ## :hammer_and_wrench: Frontend Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,next,vue,redux,tailwind)](https://skillicons.dev)
 
 ## :hammer_and_wrench: Backend Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev)
