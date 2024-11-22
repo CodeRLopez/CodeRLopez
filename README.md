@@ -2,6 +2,7 @@
   <h1> Hi 👋, I'm RONALD LOPEZ </h1>
   
   Here is a little description of myself and an explanatory version of why I am the proper professional to take care of your project.
+
   My greatest professional impulse is the search for continuous improvement in my knowledge and experiences, I am a goal-oriented person, 
   I rely heavily on prior planning as the main vehicle to achieve my individual goals and I am aware that the only way to success is it is 
   the action, so I am always willing to make all the sacrifices concerned to achieve success.
