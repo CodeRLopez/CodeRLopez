@@ -1,5 +1,5 @@
 <div align="center" style="font-size: 60px;">
-  <h2> Hi 👋, I'm RONALD LOPEZ </h2>
+  <h1> Hi 👋, I'm RONALD LOPEZ </h1>
   
   Here is a little description of myself and an explanatory version of why I am the proper professional to take care of your project.
   My greatest professional impulse is the search for continuous improvement in my knowledge and experiences, I am a goal-oriented person, 
