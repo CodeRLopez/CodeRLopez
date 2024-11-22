@@ -1,5 +1,15 @@
 <div align="center" style="font-size: 60px;">
-  <h3> Hi 👋, I'm RONALD LOPEZ </h3>
+  <h2> Hi 👋, I'm RONALD LOPEZ </h2>
+  
+  Here is a little description of myself and an explanatory version of why I am the proper professional to take care of your project.
+  My greatest professional impulse is the search for continuous improvement in my knowledge and experiences, I am a goal-oriented person, 
+  I rely heavily on prior planning as the main vehicle to achieve my individual goals and I am aware that the only way to success is it is 
+  the action, so I am always willing to make all the sacrifices concerned to achieve success.
+
+  My main added value is my ability to commit to the individual goals of my client in their project, I am very clear about the fact that the 
+  success of my client is therefore my own success and that each project and request that I generate an ultra-satisfied client with the final 
+  product is an addiction to my professional background, which is why every time an estimate is entrusted to me, I dedicate 100% of my dedication,
+  attention, commitment and performance, each task represents my own identity as a profession and my ambition 
 </div>
 
 
@@ -21,28 +31,12 @@
 </div>
 
 
-## :hammer_and_wrench: Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,redux,nodejs,laravel,mongo,postgres,express)](https://skillicons.dev)
+## :hammer_and_wrench: Frontend Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,redux,tailwind)](https://skillicons.dev)
 
+## :hammer_and_wrench: Backend Stack
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev)
 
-## ✉️ Connect with me:
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-<!--
-**CodeRLopez/CodeRLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :hammer_and_wrench: DB Stack
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
