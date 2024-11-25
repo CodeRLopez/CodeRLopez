@@ -14,6 +14,15 @@
  synonymous with excellence and quality in execution.
 </div>
 
+## :hammer_and_wrench: Frontend Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,next,vue,redux,tailwind)](https://skillicons.dev)
+
+## :hammer_and_wrench: Backend Stack
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev)
+
+## :hammer_and_wrench: DB Stack
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
+
 
 ## :fire: My Stats :
 <div align="center">
@@ -25,20 +34,10 @@
   </a>
 </div>
 
-
+<!--
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeRLopez&card_width=496&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 80%;" />
   </a>
-</div>
-
-
-## :hammer_and_wrench: Frontend Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,next,vue,redux,tailwind)](https://skillicons.dev)
-
-## :hammer_and_wrench: Backend Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel)](https://skillicons.dev)
-
-## :hammer_and_wrench: DB Stack
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
+</div> -->
 
